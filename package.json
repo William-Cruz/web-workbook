@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/AustinCodingAcademy/web-workbook#readme",
   "dependencies": {
-    "eslint": "^4.18.1",
+    "eslint": "^9.15.0",
     "htmllint-cli": "github:kevincolten/htmllint-cli",
     "http-server": "^0.11.1",
     "javascripting": "github:austincodingacademy/javascripting",
